@@ -11,9 +11,10 @@ background:
 
 # Social media
 social:
-  Dribbble: https://dribbble.com/clovertuan
-  Behance: https://www.behance.net/clovertuan
-  Lofter: http://clovertuan.lofter.com/
+  # Dribbble: https://dribbble.com/clovertuan
+  # Behance: https://www.behance.net/clovertuan
+  # Lofter: http://clovertuan.lofter.com/
+  Facebook: https://www.facebook.com/yu_han_zhou/
   Instagram: https://www.instagram.com/yu_han_zhou/
   GitHub: https://amychou237.github.io/
 
